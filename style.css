@@ -1,0 +1,90 @@
+nav a { 
+    color: white;
+    text-decoration: none;
+    padding: 13px;
+}
+nav{
+    background: olivedrab;
+    display: flex;
+    justify-content: flex-end;
+    height: 80px;
+    align-items: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 20 px;
+}
+section  h1{
+    font-family:'Playfair Display', serif;
+    font-size: 65px;
+    align-items: center;
+    margin: 40px auto;
+    margin-left: 60px;
+    margin-bottom: 0;
+}
+section h3{
+    font-size: 23px;
+    font-family:'Playfair Display', serif;
+    font-style: italic;
+    margin-inline-start: 320px;
+}
+.my-image {
+  width: 250px;
+  height: auto;
+  margin-left: 90px;
+  border-style: solid;
+  border-color: rgb(192, 152, 20);
+  border-width: 5px;
+  border-style:outset
+
+}
+
+.prework-about-me {
+    width: 50 px;
+    height: auto;
+    
+    
+}
+
+.MY-WORK {
+  margin: 500px;
+  font-size: 40px;
+  
+}
+
+.aboutme{
+    display: inline-block;
+    display: flex;
+    margin: 8px;
+    justify-content: space-between;
+}
+
+.text{
+    justify-content: center;
+    font-family: regular;
+    float: right;
+    margin-left: -700px;
+    align-items: center;
+}
+.div{
+    display: flex-end;
+    align-items:center;
+
+
+}
+
+.Contact-Me{
+    font-family: 'Times New Roman', Times;
+    font-size: -10px;
+    margin-left: 400px;
+    margin-top: auto;
+
+}
+
+.footer {
+    clear: both;
+    font-family:  'Times New Roman', Times, serif;
+    text-size-adjust: 3px;
+    text-align: center;
+    background-color: olivedrab;
+    justify-content: flex-end;
+
+}
