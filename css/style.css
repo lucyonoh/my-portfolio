@@ -176,6 +176,15 @@ span{
 .colorh3 {
     color: black;
     padding-left: 80px;
+    font-style: italic;
+    font-family: 'EB Garamond', serif;
+}
+
+#col-right h1{
+	color: black;
+	padding-left: 80px;
+	font-size: 500px;
+	font-family: 'Cormorant SC', serif;
 }
 #header .nav-list ul a{
     font-size: 2.5rem;
