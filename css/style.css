@@ -42,7 +42,7 @@ span{
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
-    font-family: ubuntu,sans-serif;
+    font-family: 'EB Garamond', serif;
 }
 .title::before {
     content: "";
@@ -533,6 +533,8 @@ span{
     margin-bottom: 10px;
     text-align: center;
     padding: 0 40px;
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
 }
 #footer .social-icon{
     display: flex;
@@ -597,7 +599,7 @@ span{
         top: 34px;
         height: 98%;
         width: 98%;
-        border: 10px solid gold;
+        border: 10px solid rgb(117, 185, 15);
     }
     #about .col-right{
         text-align: left;
