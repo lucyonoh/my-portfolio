@@ -42,7 +42,7 @@ span{
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
-    font-family: ubuntu,sans-serif;
+    font-family: 'EB Garamond', serif;
 }
 .title::before {
     content: "";
@@ -176,6 +176,15 @@ span{
 .colorh3 {
     color: black;
     padding-left: 80px;
+    font-style: italic;
+    font-family: 'EB Garamond', serif;
+}
+
+#col-right h1{
+	color: black;
+	padding-left: 80px;
+	font-size: 500px;
+	font-family: 'Cormorant SC', serif;
 }
 #header .nav-list ul a{
     font-size: 2.5rem;
@@ -308,7 +317,7 @@ span{
     top:19px;    
     height: 98%;
     width: 98%;
-    border: 7px solid rgb(107, 168, 16);
+    border: 7px solid rgb(129, 207, 12);
     z-index: -1;
 }
 #about .col-right h1{
@@ -533,6 +542,7 @@ span{
     margin-bottom: 10px;
     text-align: center;
     padding: 0 40px;
+    font-family: 'Cardo', serif;
 }
 #footer .social-icon{
     display: flex;
@@ -597,7 +607,7 @@ span{
         top: 34px;
         height: 98%;
         width: 98%;
-        border: 10px solid gold;
+        border: 10px solid rgb(117, 185, 15);
     }
     #about .col-right{
         text-align: left;
